@@ -26,4 +26,4 @@ I wrote two professional emails and created a checklist for proper social media 
 In this task, I studied phishing as a cybercrime and created a case study along with a prevention checklist to stay safe online.
 
 ## Google Form Link
-https://docs.google.com/forms/d/e/1FAIpQLSemLou5iaCn8uIZJ2_HmbXQaULwB1YRswUZke5KnmX2DoYCqw/viewform?usp=publish-editor
+https://docs.google.com/forms/d/e/1FAIpQLSemLou5iaCn8uIZJ2_HmbXQaULwB1YRswUZke5KnmX2DoYCqw/viewform?usp=header
